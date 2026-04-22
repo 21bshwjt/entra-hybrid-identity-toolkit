@@ -12,4 +12,4 @@ $immutableID
 
 Connect-MgGraph -Scopes "User.ReadWrite.All"
 Update-MgUser -UserId "timtim@contoso.com" -OnPremisesImmutableId $immutableID 
-```# User-SOA
+```
