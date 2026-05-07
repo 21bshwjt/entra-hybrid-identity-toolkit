@@ -212,7 +212,6 @@ if ($storedGuid -eq $guid) {
 - 📖 [Azure AD Connect: Design Concepts & Source Anchor](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/plan-connect-design-concepts#sourceanchor) — Microsoft Docs
 - 📖 [Microsoft Graph — Update User](https://learn.microsoft.com/en-us/graph/api/user-update) — Microsoft Docs
 - 📖 [mS-DS-ConsistencyGuid as sourceAnchor](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/plan-connect-design-concepts#using-ms-ds-consistencyguid-as-sourceanchor) — Microsoft Docs
-- 📖 [Getting Started with Group Managed Service Accounts](https://docs.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/getting-started-with-group-managed-service-accounts) — Microsoft Docs
 
 ---
 
